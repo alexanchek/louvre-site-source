@@ -1,0 +1,8 @@
+[
+    {"id": 1, "link": "visiting", "label": "Visiting"},
+    {"id": 2, "link": "picture-explore", "label": "Explore"},
+    {"id": 3, "link": "video-journey", "label": "Video"},
+    {"id": 4, "link": "gallery", "label": "Gallery"},
+    {"id": 5, "link": "buy-tickets", "label": "Tickets"},
+    {"id": 6, "link": "contact", "label": "Contact"}
+]
