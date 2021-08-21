@@ -1,0 +1,8 @@
+[
+    {"id":1, "title": "Royal Palace", "url": "palace.jpg"},
+    {"id":2, "title": "Denon wing", "url": "denon.jpg"},
+    {"id":3, "title": "Collonade Perrault", "url": "colonade.jpg"},
+    {"id":4, "title": "Greek Hall", "url": "greek.jpg"},
+    {"id":5, "title": "Mona Lisa", "url": "monalisa.jpg"},
+    {"id":6, "title": "Night Palace", "url": "night.jpg"}
+]

@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/louvre-site/static/css/main.b092aeca.chunk.css",
+    "main.js": "/louvre-site/static/js/main.cfe7dc20.chunk.js",
+    "main.js.map": "/louvre-site/static/js/main.cfe7dc20.chunk.js.map",
+    "runtime-main.js": "/louvre-site/static/js/runtime-main.e9be37f7.js",
+    "runtime-main.js.map": "/louvre-site/static/js/runtime-main.e9be37f7.js.map",
+    "static/css/2.818011ed.chunk.css": "/louvre-site/static/css/2.818011ed.chunk.css",
+    "static/js/2.33f86f8a.chunk.js": "/louvre-site/static/js/2.33f86f8a.chunk.js",
+    "static/js/2.33f86f8a.chunk.js.map": "/louvre-site/static/js/2.33f86f8a.chunk.js.map",
+    "index.html": "/louvre-site/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/louvre-site/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.b092aeca.chunk.css.map": "/louvre-site/static/css/main.b092aeca.chunk.css.map",
+    "static/js/2.33f86f8a.chunk.js.LICENSE.txt": "/louvre-site/static/js/2.33f86f8a.chunk.js.LICENSE.txt",
+    "static/media/bg.scss": "/louvre-site/static/media/bg.2e148284.png",
+    "static/media/buy-tickets-image.0f505b8a.png": "/louvre-site/static/media/buy-tickets-image.0f505b8a.png",
+    "static/media/fonts.css": "/louvre-site/static/media/roboto-v27-latin-regular.9b78ea3b.woff",
+    "static/media/image_right.3f1dfa3c.png": "/louvre-site/static/media/image_right.3f1dfa3c.png",
+    "static/media/logo.6fb7d063.svg": "/louvre-site/static/media/logo.6fb7d063.svg",
+    "static/media/map.ee1b4358.png": "/louvre-site/static/media/map.ee1b4358.png",
+    "static/media/monalisa.46badb07.png": "/louvre-site/static/media/monalisa.46badb07.png",
+    "static/media/monalisa1000.19c1ba17.png": "/louvre-site/static/media/monalisa1000.19c1ba17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9be37f7.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.33f86f8a.chunk.js",
+    "static/css/main.b092aeca.chunk.css",
+    "static/js/main.cfe7dc20.chunk.js"
+  ]
+}

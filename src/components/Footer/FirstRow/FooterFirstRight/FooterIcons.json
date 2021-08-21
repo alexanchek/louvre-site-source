@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "youtube", "url": "img/footer-icons/Youtube.svg", "link": "https://youtube.com"},
+    { "id": 2, "name": "instagram", "url": "img/footer-icons/Instagram.svg", "link": "https://youtube.com"},
+    { "id": 3, "name": "facebook", "url": "img/footer-icons/Pinterest.svg", "link": "https://youtube.com"},
+    { "id": 4, "name": "twitter", "url": "img/footer-icons/Twitter.svg", "link": "https://youtube.com"},
+    { "id": 5, "name": "pinterest", "url": "img/footer-icons/Pinterest.svg", "link": "https://youtube.com"}
+]

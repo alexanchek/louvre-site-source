@@ -1,0 +1,23 @@
+.footer__second-row {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+.footer__text {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 22px;
+    line-height: 22px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+
+    &.middle {
+        @media (max-width: 600px) {
+            display: none;
+        }
+    }
+}

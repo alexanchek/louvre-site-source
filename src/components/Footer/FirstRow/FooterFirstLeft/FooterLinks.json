@@ -1,0 +1,12 @@
+{
+    "column1": [
+        { "id": 1, "nameClass": "column1", "link": "visiting", "label": "Visiting"},
+        { "id": 2,"nameClass": "column1", "link": "picture-xplore", "label": "Explore"},
+        { "id": 3,"nameClass": "column1", "link": "video-journey", "label": "Video"}
+    ],
+    "column2": [
+        { "id": 4,"nameClass": "column2", "link": "gallery", "label": "Gallery"},
+        { "id": 5,"nameClass": "column2", "link": "buy-tickets", "label": "Tickets"},
+        { "id": 6,"nameClass": "column2", "link": "Contact", "label": "Contact"}
+    ]
+}

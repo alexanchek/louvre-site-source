@@ -1,0 +1,18 @@
+[
+    {
+        "column1": [
+            {"id":1, "url": "galery1.png", "style": "card card-tall"},
+            {"id":2, "url": "galery2.png", "style": "card"},
+            {"id":3, "url": "galery3.png", "style": "card"},
+            {"id":4, "url": "galery4.png", "style": "card"},
+            {"id":5, "url": "galery5.png", "style": "card"},
+            {"id":6, "url": "galery6.png", "style": "card"},
+            {"id":7, "url": "galery7.png", "style": "card"},
+            {"id":8, "url": "galery8.png", "style": "card"},
+            {"id":9, "url": "galery9.png", "style": "card card-tall"},
+            {"id":10, "url": "galery10.png", "style": "card"},
+            {"id":11, "url": "galery11.png", "style": "card"},
+            {"id":12, "url": "galery12.png", "style": "card card-wide"}
+        ]
+    }
+]

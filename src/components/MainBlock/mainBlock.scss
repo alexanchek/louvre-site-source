@@ -1,0 +1,62 @@
+.main-block {
+    padding-top:55px;
+    width: 100%;
+    background-color: black;
+
+    &__titles {
+        padding-top: 150px;
+
+        @media (max-width: 1370px) {
+            padding-top: 40px;
+        }
+    }
+
+    &__title {
+        font-family: Forum;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 80px;
+        line-height: 90px;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+
+        &:last-child {
+            margin-bottom: 25px;
+        }
+
+        @media (max-width: 1370px) {
+            text-align: center;
+            font-size: 40px;
+            line-height: 60px;
+            letter-spacing: 5px;
+            color: #FFFFFF;
+        }
+    }
+
+    &__subtitle {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 28px;
+        line-height: 33px;
+        letter-spacing: 2px;
+        color: #FFFFFF;
+        margin-bottom: 75px;
+
+        @media (max-width: 1370px) {
+            text-align: center;
+        }
+    }
+}
+
+.mona-lisa {
+    display: none;
+
+    @media (max-width: 1370px) {
+        display: flex;
+        justify-content: center;
+        padding-bottom: 100px;
+    }
+
+}

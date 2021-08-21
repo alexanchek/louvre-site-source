@@ -1,0 +1,20 @@
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.explore-picture {
+    &__right {
+        display: flex;
+        
+        @media screen and (max-width: 1470px) {
+            width: 100%;
+        }
+    }
+
+
+    &__img {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

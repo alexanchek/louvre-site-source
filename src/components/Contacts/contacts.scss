@@ -1,0 +1,35 @@
+@import "../sass-variables.scss";
+
+.contacts {
+    padding-top: $padding-top;
+    padding-bottom: 75px;
+
+    &__blocks {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
+
+.text {
+    font-family: Roboto;
+    font-style: normal;
+    color: #000000;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 26px; 
+    margin-bottom: 25px;
+
+    &.bold {
+        font-family: Roboto;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 33px;
+        margin-bottom: 0;
+
+        &.margin {
+            margin-bottom: 25px;
+        }
+    }
+}
