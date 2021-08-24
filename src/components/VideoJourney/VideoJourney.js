@@ -18,6 +18,7 @@ const styles ={
 export const VideoJourney = () => {
     return (
         <div className="video-journey" id="video-journey">
+            <div id="video-journey-link" className="scroll-link video-journey"></div>
             <div className="wrapper">
                 <VideoJourneyTitle/>
                 <div className="video-journey__wrapper">

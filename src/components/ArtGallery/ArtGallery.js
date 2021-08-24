@@ -6,6 +6,7 @@ import './artgallery.scss';
 export const ArtGallery = () => {
     return (
         <div className="art-gallery" id="gallery">
+            <div id="art-gallery-link" className="scroll-link art-gallery"></div>
             <div className="wrapper">
                 <Title 
                     label={"Picture Explore"} 

@@ -7,7 +7,8 @@ export default class VirtualTour extends Component {
 
     render() {
         return (
-            <main className="visiting" id="visiting">
+            <main className="visiting">
+                <div id="visiting-link" className="scroll-link virtual-tour"></div>
                 <div className="wrapper">
                     <Title
                         label={"Virtual Tour"}

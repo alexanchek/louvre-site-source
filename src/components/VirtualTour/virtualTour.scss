@@ -1,5 +1,11 @@
 @import "../sass-variables.scss";
 
 .visiting {
-    padding-top: $padding-top;
+    margin-top: 100px;
+    position: relative;
+}
+
+.visiting-link {
+    position: absolute;
+    top: -250px;
 }

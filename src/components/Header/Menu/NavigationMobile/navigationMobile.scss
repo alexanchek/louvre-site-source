@@ -9,7 +9,7 @@
 @media (max-width: 1340px) {
     .hamburger {
         display: block;
-        position: absolute;
+        position: sticky;
         top:55px;
         right:20px;
         z-index: 100000000;

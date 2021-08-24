@@ -2,6 +2,7 @@
 
 .buy-tickets {
     padding-top: $padding-top;
+    position: relative;
 }
 
 .buy-tickets__wrapper {
@@ -14,5 +15,9 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    width: 60%;
+    width: 100%;
+
+    @media (max-width: 1388px) {
+        justify-content: center;
+    }
 }

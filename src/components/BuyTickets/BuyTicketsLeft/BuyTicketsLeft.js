@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from './buy-tickets-image.png'
+import './buyTicketsLeft.scss'
 
 export const BuyTicketsLeft = () => {
     return (

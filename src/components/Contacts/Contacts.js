@@ -7,6 +7,7 @@ import './contacts.scss';
 export const Contacts = () => {
     return (
         <div className="contacts" id="contact">
+            <div id="contacts-link" className="scroll-link contacts"></div>
             <div className="wrapper">
                 <Title 
                     label={"Contacts"} 

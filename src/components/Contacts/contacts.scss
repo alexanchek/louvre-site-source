@@ -1,8 +1,8 @@
 @import "../sass-variables.scss";
 
 .contacts {
-    padding-top: $padding-top;
-    padding-bottom: 75px;
+    margin-bottom: 75px;
+    position: relative;
 
     &__blocks {
         width: 100%;

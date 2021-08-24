@@ -1,0 +1,33 @@
+
+
+// amount input
+.amount__input {
+    display: flex;
+    width: 150px;
+    height: 50px;
+    padding: 6px 14px;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 0px;
+}
+
+.amount__text {
+    font-family: Roboto;
+    font-style: normal;
+    text-align: center;
+    color: #000000;
+
+    &.sign {
+        font-weight: normal;
+        font-size: 32px;
+        line-height: 37px;
+    }
+
+    &.numbers {
+        font-weight: 300;
+        font-size: 22px;
+        line-height: 26px;
+    }
+}

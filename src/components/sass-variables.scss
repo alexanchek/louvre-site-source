@@ -1,1 +1,22 @@
-$padding-top: 120px;
+$padding-top: 100px;
+
+.scroll-link {
+    position: absolute;
+
+    &.virtual-tour {
+        top: -250px;
+    }
+
+    &.explore-picture, 
+    &.video-journey, 
+    &.art-gallery,
+    &.buy-tickets,
+    &.contacts {
+        top: -160px;
+    }
+}
+
+.padding-margin-block {
+    margin-top: 100px;
+    position: relative;
+}

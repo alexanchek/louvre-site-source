@@ -2,8 +2,9 @@
 
 .explore-picture {
     background-color: black;
-    padding-top: $padding-top;
-    padding-bottom: 75px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
 
     &__wrapper {
         display: flex;

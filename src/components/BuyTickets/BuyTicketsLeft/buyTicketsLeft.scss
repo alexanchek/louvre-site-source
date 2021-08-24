@@ -1,0 +1,7 @@
+.buy-tickets__left {
+    width: 45%;
+
+    @media (max-width: 1388px) {
+        display: none;
+    }
+}
