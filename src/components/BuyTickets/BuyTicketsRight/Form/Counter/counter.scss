@@ -1,4 +1,6 @@
-
+.form-amount__title {
+    margin-bottom: 15px;
+}
 
 // amount input
 .amount__input {
@@ -13,6 +15,7 @@
     border-radius: 0px;
 }
 
+
 .amount__text {
     font-family: Roboto;
     font-style: normal;
@@ -23,6 +26,7 @@
         font-weight: normal;
         font-size: 32px;
         line-height: 37px;
+        cursor: pointer;
     }
 
     &.numbers {

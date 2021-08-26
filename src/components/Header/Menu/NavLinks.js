@@ -7,9 +7,9 @@ export const NavLinks = ({isMobile, closeMobileMenu, openClass}) => {
         <nav className={`header__nav ${openClass}`}>
             <ul className="header__list">
                 {
-                    MenuLinks.map(({link, label}) => {
+                    MenuLinks.map(({link, label, id}) => {
                         return (
-                            <li className="header__item" >
+                            <li className="header__item" key={id}>
                                 <MenuLink classStyle={'header__link'} 
                                 link={link} 
                                 label={label} 
