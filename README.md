@@ -2,6 +2,8 @@
 
 ## Description
 
+Made from ground zero.
+
 The result is here: https://alexanchek.github.io/louvre-site/
 
 ## Technologies I used
